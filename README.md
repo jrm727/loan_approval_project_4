@@ -71,6 +71,3 @@ The project will be evaluated based on the fulfillment of the above requirements
 To submit the project, provide the URL of your GitHub repository for grading. Ensure that the repository contains all necessary files and documentation required for evaluation.
 
 **Note:** Projects are mandatory for graduation, and missing more than two Challenge assignments will result in disqualification.
-`
-
-This markdown code now includes the provided Project Overview section at the beginning of the README.
