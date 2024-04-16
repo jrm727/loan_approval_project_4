@@ -8,6 +8,9 @@
 
 ### Breakdown:
 
+In finance, a loan is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations, etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed.
+Banks tend to focus on your income and how you make it, the property you are buying and its value, your savings and spending habits, your credit history, and what you own or owe. [Source](https://lifesherpa.com.au/articles/top-9-things-banks-look-for-when-approving-home-loans)
+
 For our project, we will use Machine Learning with various techniques to predict whether a candidate's profile is relevant using key features like Marital Status, Education, Applicant Income, Credit History, etc. Our team's goal is to develop a model that can predict whether a person will get his/her loan approved.
 Some possible factors that can affect the outcome, i.e., which of the features will have an impact on whether a loan will be approved or not, are as follows: 
 - **Education:** Applicants with a higher education level, i.e. graduate level, should have higher chances of loan approval
