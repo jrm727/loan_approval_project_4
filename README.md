@@ -19,11 +19,11 @@ Some possible factors that can affect the outcome, i.e., which of the features w
 
 # Data Model Implementation
 
-This project aims to implement a Python script that initializes, trains, and evaluates a machine learning model. The following requirements must be met:
+This project aims to implement a Python script that initializes, trains, and evaluates a machine-learning model. The following requirements must be met:
 
 - **Model Initialization, Training, and Evaluation (10 points):** The Python script should effectively initialize, train, and evaluate the model.
   
-- **Data Preprocessing (5 points):** Prior to modeling, the data should undergo cleaning, normalization, and standardization processes to ensure its quality and consistency.
+- **Data Preprocessing (5 points):** Before modeling, the data should undergo cleaning, normalization, and standardization processes to ensure its quality and consistency.
 
 - **Data Retrieval (5 points):** The model should utilize data retrieved either from SQL databases or Spark for training and evaluation.
 
